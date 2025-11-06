@@ -20,3 +20,7 @@ A simple Hangman game built with React where players guess letters to uncover a 
 
 https://github.com/user-attachments/assets/47aa6e6f-23e0-43df-95dd-2dc35ca486f2
 
+
+
+https://github.com/user-attachments/assets/02a3e517-93e4-4ad5-b63b-77f9a32f9fe8
+
