@@ -17,15 +17,15 @@ class LetterBox extends React.Component {
 
     const defaultLetterStyle = {
       visibility: isVisible ? 'visible' : 'hidden',
-      color: 'white', 
-      fontSize: '30px' 
+      color: 'white',
+      fontSize: '30px',
     };
 
     const combinedBoxStyle = { ...defaultBoxStyle, ...boxStyle };
     const combinedLetterStyle = { ...defaultLetterStyle, ...letterStyle };
 
     return (
-      <div style={combinedBoxStyle}>
+      <div data-testid="letter-box" style={combinedBoxStyle}>
         <span style={combinedLetterStyle}>{letter}</span>
       </div>
     );
