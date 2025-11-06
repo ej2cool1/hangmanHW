@@ -19,7 +19,8 @@ A simple Hangman game built with React where players guess letters to uncover a 
 ## How to Test
 
 1. Change to project directory
-2. run command npm test
+
+2. npm test
 
 
 https://github.com/user-attachments/assets/47aa6e6f-23e0-43df-95dd-2dc35ca486f2
